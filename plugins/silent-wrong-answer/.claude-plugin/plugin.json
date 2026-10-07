@@ -1,0 +1,9 @@
+{
+  "name": "silent-wrong-answer",
+  "version": "0.1.0",
+  "description": "Hunt results that are wrong without any error: build an independent oracle, diff mechanically, then walk a catalogue of silent traps.",
+  "author": { "name": "lani319" },
+  "repository": "https://github.com/lani319/field-scars",
+  "license": "MIT",
+  "keywords": ["debugging", "data-quality", "reconciliation", "verification", "code-review"]
+}

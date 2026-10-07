@@ -1,0 +1,9 @@
+{
+  "name": "windows-repo-hygiene",
+  "version": "0.1.0",
+  "description": "Prevent and diagnose quiet file-level failures on Windows and mixed-OS repositories: line endings, scripted replacements, BOMs, encodings and letter case.",
+  "author": { "name": "lani319" },
+  "repository": "https://github.com/lani319/field-scars",
+  "license": "MIT",
+  "keywords": ["windows", "line-endings", "crlf", "bom", "encoding", "powershell", "git", "case-sensitivity"]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "field-scars",
+  "description": "Skills distilled from production incidents: Windows repository hygiene and hunting silent wrong answers.",
+  "owner": {
+    "name": "lani319"
+  },
+  "plugins": [
+    {
+      "name": "windows-repo-hygiene",
+      "source": "./plugins/windows-repo-hygiene",
+      "description": "Catch line-ending flips, no-op scripted edits, BOM/encoding traps and letter-case drift on Windows repos."
+    },
+    {
+      "name": "silent-wrong-answer",
+      "source": "./plugins/silent-wrong-answer",
+      "description": "Find results that are wrong without any error: oracle comparison plus a catalogue of 12 silent traps."
+    }
+  ]
+}
